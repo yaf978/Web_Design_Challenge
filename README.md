@@ -10,7 +10,7 @@ In building this dashboard, I created individual pages for each plot and a means
 
 The website consist of 7 pages total, including:
 
-### 1. Home page (index)
+### 1. Landing page (Home)
   * Containing an explanation of the project.
   * Links to each visualization page. A sidebar contains preview images of each plot, and clicking an image will take to that visualization.
   * 
