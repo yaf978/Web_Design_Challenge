@@ -41,4 +41,5 @@ Small screen:
   * On the data page, I displayed a responsive table containing the data used in the visualizations.
     * The table is constructed by using a bootstrap table component.
     * The data come from exporting the `.csv` file as HTML.
+    * 
 ![](assets/ScreenShot/Data.png)
