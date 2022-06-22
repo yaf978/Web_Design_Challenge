@@ -14,7 +14,7 @@ The website consist of 7 pages total, including:
 ### 1. Landing page
   * Containing an explanation of the project.
   * Links to each visualization page. A sidebar contains preview images of each plot, and clicking an image will take to that visualization.
- 
+ ![](assets/ScreenShot/big_screen.png)
   
 ### 2. Four visualization pages 
   * With a descriptive title and heading tag.
