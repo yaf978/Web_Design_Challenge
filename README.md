@@ -1,7 +1,6 @@
 # Web Visualization Dashboard (Latitude)
 
 
-## Latitude - Latitude Analysis Dashboard with Attitude
 
 I created a visualization dashboard website for my previous project work. Specifically, we'll be plotting [weather data](Resources/cities.csv), and the original GitHub repository found here [python-api-challenge](https://github.com/yaf978/Python_api_challenge)
 
