@@ -3,7 +3,7 @@
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-I created a visualization dashboard website for my previous project work. Specifically, we'll be plotting [weather data](Resources/cities.csv), and the original GitHub repository found here [python-api-challenge]
+I created a visualization dashboard website for my previous project work. Specifically, we'll be plotting [weather data](Resources/cities.csv), and the original GitHub repository found here [python-api-challenge](https://github.com/yaf978/Python_api_challenge)
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I also created a landing page, a page where we can see a comparison of all the plots, and another page where we can view the data used to build them.
 
