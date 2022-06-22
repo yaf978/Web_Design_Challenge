@@ -23,7 +23,7 @@ The website consist of 7 pages total, including:
   
 Large screen:
 ![](assets/ScreenShot/temp.png)
-
+---
 Small screen:
 
 ![](assets/ScreenShot/temp_small.png)
